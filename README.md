@@ -10,7 +10,7 @@ make
 
 The data parallelism approach assings threads to process a specific section of the grid.
 
-Parallel Computation Algorithm:
+Parallel Computation Algorithm: For example
 nThreads = 5
 gridSize = 100
 
