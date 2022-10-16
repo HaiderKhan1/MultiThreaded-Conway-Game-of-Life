@@ -18,7 +18,7 @@ There will be a total of 5 threads created and since 100 % 5 == 0, we can assign
 Incases where the gridSize % nThreads != 0, the algorithm assings the first nThreads - (gridSize % nThreads) to process girdSize / nThreads rows, and 
 the leftover (girdSize % nThreads) threads will process (gridSize / nThreads) + 1 rows.
 
-## Data Parallelism 
+## Task Parallelism 
 TO RUN:
 ```
 make
