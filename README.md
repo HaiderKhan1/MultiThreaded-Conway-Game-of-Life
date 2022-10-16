@@ -22,7 +22,7 @@ the leftover (girdSize % nThreads) threads will process (gridSize / nThreads) + 
 TO RUN:
 ```
 make
-./gol_data gridSize numIterations -d
+./gol_task gridSize numIterations -d
 ```
 **Please use the -d flag to draw each and every iteration.**
 
